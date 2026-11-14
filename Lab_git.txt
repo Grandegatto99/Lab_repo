@@ -8,7 +8,8 @@ git commit -m - создание коммита с сообщением
 
 Тестовая конфигурация:
 
-AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+
+LAB_TEST_SECRET = "Q7mR4xN9pL2vK8sT5wY3zA6bC1dE0fG"
 
 
 trufflehog:verified
