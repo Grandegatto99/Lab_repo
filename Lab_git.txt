@@ -11,4 +11,4 @@ git commit -m - создание коммита с сообщением
 AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
 
 
-trufflehog:always-secret
+trufflehog:verified
