@@ -9,3 +9,6 @@ git commit -m - создание коммита с сообщением
 Тестовая конфигурация:
 
 AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+
+
+trufflehog:always-secret
