@@ -4,3 +4,8 @@ git init - создание локального репозитория
 git add - добавление изменений в staging area (index) перед коммитом
 git commit -m - создание коммита с сообщением
 Пример: git commit -m "Добавлены основные команды Git"
+
+
+Тестовая конфигурация:
+
+AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
